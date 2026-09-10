@@ -73,7 +73,7 @@ Atualmente, além dos meus estudos acadêmicos, atuo no desenvolvimento de softw
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizryke&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=luizryke&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=luizryke&theme=tokyonight" />
 </p>
 
