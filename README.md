@@ -79,7 +79,7 @@ Atualmente, além dos meus estudos acadêmicos, atuo no desenvolvimento de softw
 
 ---
 
-## 📖 Frase de Inspiração
+## 📖
 
 > *"Fazei tudo para a glória de Deus."*  
 > — **1 Coríntios 10:31**
