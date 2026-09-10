@@ -79,7 +79,7 @@ Atualmente, além dos meus estudos acadêmicos, atuo no desenvolvimento de softw
 
 ---
 
-## ![Vaticano](https://img.shields.io/badge/Vaticano-🇻🇦-yellow?style=for-the-badge) Viva Cristo Rei
+## <img src="https://flagcdn.com/w20/va.png" srcset="https://flagcdn.com/w40/va.png 2x" width="20" alt="Vaticano"> Viva Cristo Rei
 
 > *"Fazei tudo para a glória de Deus."*  
 > — **1 Coríntios 10:31**
