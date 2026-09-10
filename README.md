@@ -27,7 +27,7 @@ Atualmente, além dos meus estudos acadêmicos, atuo no desenvolvimento de softw
 
 - 📚 **Graduação:** Cursando Bacharelado em Ciência da Computação
 - 💻 **Projetos Autônomos:** Desenvolvendo aplicações web e sistemas analíticos para clientes reais (em equipe)
-- 🚀 **Estudos & Prática:** Aprimorando lógica de programação, arquitetura de software e engenharia de dados
+- 🚀 **Estudos & Prática:** Aprimorando lógica de programação, arquitetura de software e engenharia de software
 
 ---
 
