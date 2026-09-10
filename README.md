@@ -1,4 +1,4 @@
-# Olá 👋, sou o Luiz Henrique Rangel
+# Olá 👋, sou Luiz Henrique!
 
 🎓 **Estudante de Ciência da Computação | Desenvolvedor de Software**  
 🇧🇷 Brasil
