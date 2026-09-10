@@ -4,7 +4,6 @@
 🇧🇷 Brasil
 
 Estudo Ciência da Computação e tenho contato com a programação desde o ensino médio no **IFPB**.  
-Programo não apenas por profissionalismo, mas por **propósito**. 
 
 Atualmente, além dos meus estudos acadêmicos, atuo no desenvolvimento de software de forma autônoma/freelancer, construindo aplicações web e plataformas analíticas sob medida em parceria com colegas de equipe.
 
